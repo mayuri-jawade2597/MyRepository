@@ -1,4 +1,4 @@
 # MyRepository
 This is my first git repository. 
 <br>
-Author - Mayuri Jawade
+Author - Mayuri Jawade(myname)
